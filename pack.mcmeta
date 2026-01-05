@@ -1,5 +1,31 @@
 {
   "pack": {
-    "description": "A data-driven GUI library for mapmaking"
+    "pack_format": 94,
+    "min_format": 94,
+    "max_format": 94,
+    "description": [
+      {
+        "text": "AjjGUI",
+        "color": "gold",
+        "bold": true
+      },
+      {
+        "text": " - ",
+        "color": "gray"
+      },
+      {
+        "text": "A data-driven GUI library for mapmaking",
+        "color": "gray"
+      }
+    ]
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "Temp",
+        "min_format": 94,
+        "max_format": 94
+      }
+    ]
   }
 }
